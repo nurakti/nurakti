@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+TR
+Merhaba! Çeşitli yazılım alanlarında bilgi ve deneyim sahibi bir yazılım mühendisiyim. Ekip çalışmalarında koordineli ve etkili bir şekilde yer alabiliyorum. Ayrıca C2 seviyesinde İngilizce biliyorum.
+
+Şu anda otomatik rota oluşturma uygulaması, 2D platform oyunu ve kişisel web sitem dahil olmak üzere pek çok proje üzerinde çalışıyorum!
+
+ENG
+Hi! I'm a software engineer with experience and knowledge in various software fields. I'm able to participate in teamwork in a coordinated and effective manner. I'm also a C2 level English speaker.
+
+I'm currently working on a plethora of projects including an auto-route app, a 2D platforming game and my personal website!
